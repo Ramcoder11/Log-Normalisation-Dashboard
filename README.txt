@@ -43,7 +43,7 @@ FPDF → Optional, for generating PDF reports
 
 Run the Streamlit App Locally:
 
-streamlit run GUI.py
+streamlit run dashboard.py
 
 
 
